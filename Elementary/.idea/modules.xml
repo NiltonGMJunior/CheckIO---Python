@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/CheckIO - Python.iml" filepath="$PROJECT_DIR$/../.idea/CheckIO - Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Elementary.iml" filepath="$PROJECT_DIR$/.idea/Elementary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Sensores/Listas/Lista 03/Exercício 15/.idea/Exercício 15.iml" filepath="$PROJECT_DIR$/../../Sensores/Listas/Lista 03/Exercício 15/.idea/Exercício 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ProjecEuler/.idea/ProjecEuler.iml" filepath="$PROJECT_DIR$/../../ProjecEuler/.idea/ProjecEuler.iml" />
+    </modules>
+  </component>
+</project>
